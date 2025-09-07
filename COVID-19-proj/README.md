@@ -32,7 +32,7 @@ The queries cover a diverse set of analyses, including but not limited to:
 - Analysis of total population vs. vaccinations.
 
 
-[Tableau Dashboard](https://public.tableau.com/app/profile/emilio.montelongo.luna/viz/CovidDashboard_17412234544120/Dashboard1).
+## [Tableau Dashboard](https://public.tableau.com/app/profile/emilio.montelongo.luna/viz/CovidDashboard_17412234544120/Dashboard1).
 
 ## Acknowledgments
 
