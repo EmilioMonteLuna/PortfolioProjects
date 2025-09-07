@@ -31,6 +31,9 @@ The queries cover a diverse set of analyses, including but not limited to:
 - Global numbers of new cases, total cases, and death percentages.
 - Analysis of total population vs. vaccinations.
 
+
+[Tableau Dashboard](https://public.tableau.com/app/profile/emilio.montelongo.luna/viz/CovidDashboard_17412234544120/Dashboard1).
+
 ## Acknowledgments
 
 This project is part of a YouTube tutorial series led by [Alex the Analyst](https://www.youtube.com/@AlexTheAnalyst). The skills applied in this project were acquired under his guidance, and the analysis serves as a practical demonstration of SQL techniques for data exploration.
